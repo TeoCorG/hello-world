@@ -1,2 +1,4 @@
 # hello-world
-my firs repository
+my first repository
+
+I like HTML and CCS
